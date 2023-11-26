@@ -1,0 +1,55 @@
+@font-face {
+  font-family: "iconjava"; /* Project id  */
+  src: url('iconfont_java.ttf?t=1700360329881') format('truetype');
+}
+
+.iconjava {
+  font-family: "iconjava" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-java:before {
+  content: "\e60c";
+}
+
+@font-face {
+  font-family: "iconxml"; /* Project id  */
+  src: url('iconfont_xml.ttf?t=1700361771431') format('truetype');
+}
+
+.iconxml {
+  font-family: "iconxml" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-xml:before {
+  content: "\e610";
+}
+
+@font-face {
+  font-family: "icongit"; /* Project id  */
+  src: url('iconfont_git.ttf?t=1700959813635') format('truetype');
+}
+
+.icongit {
+  font-family: "icongit" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-GitHub:before {
+  content: "\ea0a";
+}
+
+.icon-gitee:before {
+  content: "\e60c";
+}
+
